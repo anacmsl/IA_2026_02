@@ -13,7 +13,7 @@ Repositório dedicado ao armazenamento e organização dos notebooks, códigos e
   - **Descrição:** Resolução e desenvolvimento de **50 exercícios em Python**.
   - **Objetivo:** Treinar, relembrar e aprofundar conceitos essenciais da linguagem (estruturas de controle, funções, manipulação de dados, laços de repetição, matrizes e tratamento de exceções) para preparar a base necessária para os algoritmos de IA.
 
-## 🚀 Como Executar os Notebooks
+## Como Executar os Notebooks
 
 1. Acesse a pasta onde o notebook desejado está localizado neste repositório.
 2. Abra diretamente no **Google Colab** clicando no botão do Colab (se configurado) ou baixe o arquivo `.ipynb`.
