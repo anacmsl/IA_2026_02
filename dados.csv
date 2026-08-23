@@ -1,0 +1,13 @@
+ID,Produto,Categoria,Preco,Quantidade
+1,Arroz,Alimento,25.9,10.0
+2,Banana,Hortifruti,5.5,40.0
+3,Cafe,Bebida,18.0,15.0
+4,Detergente,Limpeza,,22.0
+5,Bolacha,Alimento,7.8,30.0
+6,Feijao,Alimento,9.4,18.0
+7,Guarana,Bebida,8.9,25.0
+8,Bala,Alimento,3.2,
+9,Iogurte,Laticinio,6.5,12.0
+10,Leite,Laticinio,4.8,35.0
+11,Macarrao,Alimento,5.1,28.0
+12,Notebook,Eletronico,3500.0,3.0
