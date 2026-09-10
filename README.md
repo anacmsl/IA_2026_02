@@ -17,3 +17,6 @@ Repositório dedicado ao armazenamento e organização dos notebooks, códigos e
 - **[Lista 02](https://colab.research.google.com/drive/1v8IRoG7YAMAePBpkcx_jAsFqZoFqOnZ7?usp=sharing)**
   - **Descrição:** Resolução e desenvolvimento de **80 exercícios em Python**.
   - **Objetivo:** Consolidar os conhecimentos teóricos e práticos abordados no material de estudo sobre as principais bibliotecas de Data Science em Python: NumPy, SciPy, Pandas e Matplotlib. 
+
+### Avaliação Iris Species Dataset:
+- **[Kaggle notebook](https://www.kaggle.com/code/anaclaramds/avalia-o-iris-dataset-ana-clara-6-b)**
