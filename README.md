@@ -20,3 +20,6 @@ Repositório dedicado ao armazenamento e organização dos notebooks, códigos e
 
 ### Avaliação Iris Species Dataset:
 - **[Kaggle notebook](https://www.kaggle.com/code/anaclaramds/avalia-o-iris-dataset-ana-clara-6-b)**
+
+### Módulo 3: Arvore de Decisão, Floresta Aleatória e Boosting
+- **[Kaggle notebook](https://www.kaggle.com/code/anaclaramds/rvore-de-decis-o-ana-clara-iris-dataset)**
